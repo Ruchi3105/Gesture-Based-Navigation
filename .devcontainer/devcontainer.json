@@ -1,0 +1,7 @@
+{
+    "name": "Windows Container",
+    "image": "mcr.microsoft.com/windows/servercore:ltsc2022",
+    "extensions": [
+        "ms-python.python"
+    ]
+}
